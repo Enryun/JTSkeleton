@@ -16,9 +16,16 @@
 ## Overview
 Skeleton loading is a popular pattern for improving perceived performance by showing placeholders that mimic content layout during loading. While SwiftUI doesn’t support this out of the box, this SDK makes it easy to add skeleton views to any SwiftUI interface.
 
+<img src="https://github.com/user-attachments/assets/54483b59-5b6d-4c1c-b6ae-fd84aa7a3ed7" width="220">
+<img src="https://github.com/user-attachments/assets/7838a97d-4acf-4019-b846-779ed34e5953" width="220">
+
 With minimal setup, you can display animated or static placeholders that blend seamlessly into your design—improving user experience during data fetches or slow content loads.
 
 ## Features
+
+- **ShimmerView**: A ready-to-use view that displays animated shimmering placeholders, perfect for representing loading content with minimal setup.
+
+- **.shimmer**: A flexible modifier that applies the shimmer effect to any SwiftUI view, allowing full customization of layout, shape, and animation.
 
 ## Requirements
 
@@ -31,6 +38,16 @@ With minimal setup, you can display animated or static placeholders that blend s
 | visionOS |  1.0            |
 
 ## Installation
+
+### Swift Package Manager
+
+1. Open your project in Xcode.
+2. Navigate to `File` > `Swift Packages` > `Add Package Dependency`.
+3. Paste the repository URL: `https://github.com/Enryun/JTSkeleton`
+4. Follow the prompts to add the package to your project.
+
+For more details on using Swift Package Manager, visit [Apple's Swift Package Manager documentation](https://swift.org/package-manager/).
+
 
 ## Usage
 
