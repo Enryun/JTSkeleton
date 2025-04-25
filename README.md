@@ -32,9 +32,9 @@ With minimal setup, you can display animated or static placeholders that blend s
 | Platform | Minimum Version |
 |----------|-----------------|
 | iOS      | 15.0            |
-| macOS    | 12.0            |
-| tvOS     | 15.0            |
-| watchOS  |  8.0            |
+| macOS    | 14.0            |
+| tvOS     | 17.0            |
+| watchOS  | 10.0            |
 | visionOS |  1.0            |
 
 ## Installation
