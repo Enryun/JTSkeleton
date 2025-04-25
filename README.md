@@ -1,4 +1,4 @@
-# ButtonStyle
+# JTSkeleton
 
 [![Pod Platform](http://img.shields.io/cocoapods/p/SDWebImage.svg?style=flat)](http://cocoadocs.org/docsets/SDWebImage/)
 [![Pod Version](http://img.shields.io/cocoapods/v/SDWebImage.svg?style=flat)](https://cocoapods.org/pods/Tutorials)
@@ -14,6 +14,9 @@
 6. [Author](#author)
 
 ## Overview
+Skeleton loading is a popular pattern for improving perceived performance by showing placeholders that mimic content layout during loading. While SwiftUI doesn’t support this out of the box, this SDK makes it easy to add skeleton views to any SwiftUI interface.
+
+With minimal setup, you can display animated or static placeholders that blend seamlessly into your design—improving user experience during data fetches or slow content loads.
 
 ## Features
 
