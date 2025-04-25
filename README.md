@@ -1,3 +1,36 @@
+# ButtonStyle
+
+[![Pod Platform](http://img.shields.io/cocoapods/p/SDWebImage.svg?style=flat)](http://cocoadocs.org/docsets/SDWebImage/)
+[![Pod Version](http://img.shields.io/cocoapods/v/SDWebImage.svg?style=flat)](https://cocoapods.org/pods/Tutorials)
+[![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://mit-license.org)
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Requirements](#requirements)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Author](#author)
+
+## Overview
+
+## Features
+
+## Requirements
+
+| Platform | Minimum Version |
+|----------|-----------------|
+| iOS      | 15.0            |
+| macOS    | 12.0            |
+| tvOS     | 15.0            |
+| watchOS  |  8.0            |
+| visionOS |  1.0            |
+
+## Installation
+
+## Usage
+
 ## Shimmer View
 
 A view displaying a shimmering loading placeholder.
@@ -118,3 +151,9 @@ var body: some View {
 https://github.com/user-attachments/assets/fffd83e9-6a8e-4604-b6c7-4ba46308f662
 
 Customize the parameters to fit the style of your app's loading indicators.
+
+## Author
+
+James Thang, find me on [LinkedIn](https://www.linkedin.com/in/jamesthang/)
+
+Learn more about SwiftUI, check out my book :books: on [Amazon](https://www.amazon.com/Ultimate-SwiftUI-Handbook-iOS-Developers-ebook/dp/B0CKBVY7V6/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1696776124&sr=8-1)
