@@ -61,7 +61,13 @@ ShimmerView()
 
 This view simulates a 'shimmer' effect commonly used as a placeholder during content loading. It consists of multiple shimmering elements: a pair of small circular views at the top and bottom, and larger rectangular views in between, all showcasing the shimmer effect.
 
+`iOS`:
+
 https://github.com/user-attachments/assets/8f921028-2d13-4ed6-9281-998a883fe53e
+
+`MacOS`:
+
+https://github.com/user-attachments/assets/22f70fbf-d63d-4b06-994b-3b4b1b53415c
 
 No additional configuration is needed. The shimmer effect starts automatically, simulating content loading in your UI.
 
