@@ -18,6 +18,7 @@ Skeleton loading is a popular pattern for improving perceived performance by sho
 
 <img src="https://github.com/user-attachments/assets/54483b59-5b6d-4c1c-b6ae-fd84aa7a3ed7" width="220">
 <img src="https://github.com/user-attachments/assets/7838a97d-4acf-4019-b846-779ed34e5953" width="220">
+<img src="https://github.com/user-attachments/assets/83007e7a-a269-4c67-889d-02eeb9e3f326" width="220">
 
 With minimal setup, you can display animated or static placeholders that blend seamlessly into your design—improving user experience during data fetches or slow content loads.
 
